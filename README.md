@@ -1,2 +1,2 @@
 # test
-Ren Shengjun is an idiot
+Dong Daoming is not an idiot
